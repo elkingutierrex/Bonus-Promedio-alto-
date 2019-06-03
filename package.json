@@ -1,0 +1,14 @@
+{
+  "name": "node_modules2",
+  "version": "1.0.0",
+  "description": "practica yargs and command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elkingutierrex | elkin.gutierrex@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "command": "0.0.5"
+  }
+}
